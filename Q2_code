@@ -1,0 +1,5 @@
+terminal_1: roscore
+terminal_2: rosrun turtlesim turtlesim_node
+terminal_3: rosrun turtlesim turtle_teleop_key
+
+%% set up: https://blog.csdn.net/cruzwu/article/details/139119556?spm=1001.2014.3001.5501 %%
